@@ -6,4 +6,6 @@ authors:
 
 crystal: 0.25.0
 
+description: Helper methods for rendering React components in Lucky using the lucky-react npm module
+
 license: MIT
