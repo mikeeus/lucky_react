@@ -1,0 +1,9 @@
+name: lucky_react
+version: 0.1.0
+
+authors:
+  - mikeeus <itsmikias@gmail.com>
+
+crystal: 0.25.0
+
+license: MIT
