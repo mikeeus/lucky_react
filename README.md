@@ -1,6 +1,6 @@
 # lucky_react
 
-LuckyReact provides elper methods for rendering React components in Lucky apps that are using the [lucky-react](https://github.com/mikeeus/lucky-react) module.
+LuckyReact provides helper methods for rendering React components in Lucky apps that use the [lucky-react](https://github.com/mikeeus/lucky-react) package.
 
 [![GitHub release](https://img.shields.io/github/release/mikeeus/lucky_react.svg)](https://github.com/mikeeus/lucky_react/releases)
 [![Build Status](https://travis-ci.org/mikeeus/lucky_react.svg?branch=master)](https://travis-ci.org/mikeeus/lucky_react)
